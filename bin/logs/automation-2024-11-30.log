@@ -1,0 +1,59 @@
+17:17:55.542 [main] INFO  testClass.TC_003_LoginDDT - Entered login page
+17:17:57.838 [main] INFO  testClass.TC_003_LoginDDT - ***verifyLoggedin - ended***
+17:27:18.416 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium class\Workout\N11_HybridFMWorkout\Grouping.xml
+
+17:27:42.845 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium class\Workout\N11_HybridFMWorkout\Grouping.xml
+
+17:27:43.280 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 131.0.6778.85 (resolved driver for Chrome 131)
+17:27:43.315 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vishv\.cache\selenium\chromedriver\win64\131.0.6778.85\chromedriver.exe
+17:27:45.794 [main] INFO  testClass.TC_002_Login - ***verifyLoggedin - started***
+17:27:47.144 [main] INFO  testClass.TC_002_Login - Entered login page
+17:27:49.458 [main] INFO  testClass.TC_002_Login - ***verifyLoggedin - ended***
+17:40:46.908 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium class\Workout\N11_HybridFMWorkout\master.xml
+
+17:40:47.439 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 131.0.6778.85 (resolved driver for Chrome 131)
+17:40:47.470 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vishv\.cache\selenium\chromedriver\win64\131.0.6778.85\chromedriver.exe
+17:40:50.717 [main] INFO  testClass.TC_003_LoginDDT - ***verifyLoggedin - started***
+17:40:52.084 [main] INFO  testClass.TC_003_LoginDDT - Entered login page
+17:41:09.082 [main] ERROR testClass.TC_003_LoginDDT - Registered Unsuccessfull
+17:41:09.254 [main] INFO  testClass.TC_003_LoginDDT - ***verifyLoggedin - started***
+17:41:10.679 [main] INFO  testClass.TC_003_LoginDDT - Entered login page
+17:41:12.901 [main] INFO  testClass.TC_003_LoginDDT - ***verifyLoggedin - ended***
+17:41:12.906 [main] INFO  testClass.TC_003_LoginDDT - ***verifyLoggedin - started***
+17:41:14.244 [main] INFO  testClass.TC_003_LoginDDT - Entered login page
+17:41:31.112 [main] ERROR testClass.TC_003_LoginDDT - Registered Unsuccessfull
+17:41:31.250 [main] INFO  testClass.TC_003_LoginDDT - ***verifyLoggedin - started***
+17:41:32.660 [main] INFO  testClass.TC_003_LoginDDT - Entered login page
+17:41:34.820 [main] INFO  testClass.TC_003_LoginDDT - ***verifyLoggedin - ended***
+17:42:32.411 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium class\Workout\N11_HybridFMWorkout\test-output\testng-failed.xml
+
+17:42:32.935 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 131.0.6778.85 (resolved driver for Chrome 131)
+17:42:32.969 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vishv\.cache\selenium\chromedriver\win64\131.0.6778.85\chromedriver.exe
+17:42:35.963 [main] INFO  testClass.TC_003_LoginDDT - ***verifyLoggedin - started***
+17:42:37.319 [main] INFO  testClass.TC_003_LoginDDT - Entered login page
+17:42:54.353 [main] ERROR testClass.TC_003_LoginDDT - Registered Unsuccessfull
+17:42:54.532 [main] INFO  testClass.TC_003_LoginDDT - ***verifyLoggedin - started***
+17:42:55.933 [main] INFO  testClass.TC_003_LoginDDT - Entered login page
+17:43:12.935 [main] ERROR testClass.TC_003_LoginDDT - Registered Unsuccessfull
+18:08:47.053 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium class\Workout\N11_HybridFMWorkout\master.xml
+
+18:08:47.558 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 131.0.6778.85 (resolved driver for Chrome 131)
+18:08:47.594 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vishv\.cache\selenium\chromedriver\win64\131.0.6778.85\chromedriver.exe
+18:08:50.122 [main] INFO  testClass.TC_002_Login - ***verifyLoggedin - started***
+18:08:51.471 [main] INFO  testClass.TC_002_Login - Entered login page
+18:08:53.697 [main] INFO  testClass.TC_002_Login - ***verifyLoggedin - ended***
+19:26:08.662 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium class\Workout\N11_HybridFMWorkout\master.xml
+
+19:26:09.705 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 131.0.6778.85 (resolved driver for Chrome 131)
+19:26:09.738 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vishv\.cache\selenium\chromedriver\win64\131.0.6778.85\chromedriver.exe
+19:26:12.900 [main] INFO  testClass.TC_001_Registration - ***verifyregistration - started***
+19:26:14.440 [main] INFO  testClass.TC_001_Registration - Entered register page
+19:26:17.855 [main] INFO  testClass.TC_001_Registration - Registered successfull
+19:26:17.855 [main] INFO  testClass.TC_001_Registration - ***verifyregistration - ended***
+19:26:20.007 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 131.0.6778.85 (resolved driver for Chrome 131)

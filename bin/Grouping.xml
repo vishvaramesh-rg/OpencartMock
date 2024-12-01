@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test thread-count="5" name="Test">
+
+		<parameter name="browser" value="chrome" />
+		<parameter name="OS" value="windows" />
+
+		<groups>
+			<define name="daily">
+				<include name="sanity" />
+			</define>
+			<define name="monthly">
+				<include name="master" />
+			</define>
+			<define name="weekly">
+				<include name="regression" />
+			</define>
+			<run>
+				<include name="weekly" />
+			</run>
+
+		</groups>
+
+		<classes>
+			<class name="testClass.TC_001_Registration" />
+			<class name="testClass.TC_002_Login" />
+			<class name="testClass.TC_003_LoginDDT" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

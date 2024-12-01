@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-01T18:54:10 IST" name="Suite" finished-at="2024-12-01T18:54:21 IST" duration-ms="11087">
+    <groups>
+      <group name="sanity">
+        <method signature="TC_001_Registration.verifyregistration()[pri:0, instance:testClass.TC_001_Registration@2fd1731c]" name="verifyregistration" class="testClass.TC_001_Registration"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test started-at="2024-12-01T18:54:10 IST" name="Test" finished-at="2024-12-01T18:54:21 IST" duration-ms="11087">
+      <class name="testClass.TC_001_Registration">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testClass.TC_001_Registration@2fd1731c]" started-at="2024-12-01T18:54:10 IST" name="setup" finished-at="2024-12-01T18:54:13 IST" duration-ms="3273" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyregistration()[pri:0, instance:testClass.TC_001_Registration@2fd1731c]" started-at="2024-12-01T18:54:13 IST" name="verifyregistration" finished-at="2024-12-01T18:54:19 IST" duration-ms="5594" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyregistration -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testClass.TC_001_Registration@2fd1731c]" started-at="2024-12-01T18:54:19 IST" name="tearDown" finished-at="2024-12-01T18:54:21 IST" duration-ms="2169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testClass.TC_001_Registration -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
