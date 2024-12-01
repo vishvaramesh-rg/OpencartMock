@@ -21,7 +21,7 @@
 					<configuration>
 						<suiteXmlFiles>
 							<!--<suiteXmlFile>mastersuite.xml</suiteXmlFile>-->
-							<suiteXmlFile>Grouping.xml</suiteXmlFile>
+							<suiteXmlFile>master.xml</suiteXmlFile>
 						</suiteXmlFiles>
 					</configuration>
 				</plugin>

@@ -1,0 +1,57 @@
+22:37:16.617 [main] INFO  testClass.TC_001_Registration - ***verifyregistration - started***
+22:37:18.144 [main] INFO  testClass.TC_001_Registration - Entered register page
+22:37:21.584 [main] INFO  testClass.TC_001_Registration - Registered successfull
+22:37:21.584 [main] INFO  testClass.TC_001_Registration - ***verifyregistration - ended***
+22:41:44.495 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Vishv\eclipse\Selenium with java\OpencartMock\master.xml
+
+22:41:48.872 [main] INFO  testClass.TC_001_Registration - ***verifyregistration - started***
+22:41:50.700 [main] INFO  testClass.TC_001_Registration - Entered register page
+22:41:54.132 [main] INFO  testClass.TC_001_Registration - Registered successfull
+22:41:54.132 [main] INFO  testClass.TC_001_Registration - ***verifyregistration - ended***
+22:41:58.381 [main] INFO  testClass.TC_002_Login - ***verifyLoggedin - started***
+22:41:59.769 [main] INFO  testClass.TC_002_Login - Entered login page
+22:42:02.109 [main] INFO  testClass.TC_002_Login - ***verifyLoggedin - ended***
+22:42:38.316 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Vishv\eclipse\Selenium with java\OpencartMock\CrossBrowsertesting.xml
+
+22:42:41.105 [TestNG-tests-1] INFO  testClass.TC_001_Registration - ***verifyregistration - started***
+22:42:42.576 [TestNG-tests-1] INFO  testClass.TC_001_Registration - Entered register page
+22:42:45.942 [TestNG-tests-1] INFO  testClass.TC_001_Registration - Registered successfull
+22:42:45.942 [TestNG-tests-1] INFO  testClass.TC_001_Registration - ***verifyregistration - ended***
+22:43:21.654 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Vishv\eclipse\Selenium with java\OpencartMock\CrossBrowsertesting.xml
+
+22:44:12.043 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Vishv\eclipse\Selenium with java\OpencartMock\CrossBrowsertesting.xml
+
+22:44:15.157 [TestNG-tests-1] INFO  testClass.TC_001_Registration - ***verifyregistration - started***
+22:44:16.742 [TestNG-tests-1] INFO  testClass.TC_001_Registration - Entered register page
+22:44:20.227 [TestNG-tests-1] INFO  testClass.TC_001_Registration - Registered successfull
+22:44:20.227 [TestNG-tests-1] INFO  testClass.TC_001_Registration - ***verifyregistration - ended***
+18:52:06.278 [main] INFO  testClass.TC_001_Registration - ***verifyregistration - started***
+18:52:08.307 [main] INFO  testClass.TC_001_Registration - Entered register page
+18:52:11.946 [main] INFO  testClass.TC_001_Registration - Registered successfull
+18:52:11.946 [main] INFO  testClass.TC_001_Registration - ***verifyregistration - ended***
+18:54:10.591 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Vishv\eclipse\Selenium with java\OpencartMock\Grouping.xml
+
+18:54:11.135 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 131.0.6778.85 (resolved driver for Chrome 131)
+18:54:11.187 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vishv\.cache\selenium\chromedriver\win64\131.0.6778.85\chromedriver.exe
+18:54:13.986 [main] INFO  testClass.TC_001_Registration - ***verifyregistration - started***
+18:54:15.667 [main] INFO  testClass.TC_001_Registration - Entered register page
+18:54:19.519 [main] INFO  testClass.TC_001_Registration - Registered successfull
+18:54:19.519 [main] INFO  testClass.TC_001_Registration - ***verifyregistration - ended***
+22:16:37.298 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 131.0.6778.85 (resolved driver for Chrome 131)
+22:16:37.333 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vishv\.cache\selenium\chromedriver\win64\131.0.6778.85\chromedriver.exe
+22:16:39.306 [main] INFO  testClass.TC_001_Registration - ***verifyregistration - started***
+22:16:40.813 [main] INFO  testClass.TC_001_Registration - Entered register page
+22:16:44.250 [main] INFO  testClass.TC_001_Registration - Registered successfull
+22:16:44.250 [main] INFO  testClass.TC_001_Registration - ***verifyregistration - ended***
+22:16:46.404 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 131.0.6778.85 (resolved driver for Chrome 131)
+22:16:46.437 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vishv\.cache\selenium\chromedriver\win64\131.0.6778.85\chromedriver.exe
+22:16:48.262 [main] INFO  testClass.TC_002_Login - ***verifyLoggedin - started***
+22:16:49.606 [main] INFO  testClass.TC_002_Login - Entered login page
+22:16:51.826 [main] INFO  testClass.TC_002_Login - ***verifyLoggedin - ended***
+22:16:53.973 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 131.0.6778.85 (resolved driver for Chrome 131)
+22:16:53.998 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vishv\.cache\selenium\chromedriver\win64\131.0.6778.85\chromedriver.exe
