@@ -10,3 +10,25 @@
 22:17:37.085 [main] INFO  testClass.TC_003_LoginDDT - ***verifyLoggedin - started***
 22:17:38.469 [main] INFO  testClass.TC_003_LoginDDT - Entered login page
 22:17:40.704 [main] INFO  testClass.TC_003_LoginDDT - ***verifyLoggedin - ended***
+12:59:41.090 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 131.0.6778.85 (resolved driver for Chrome 131)
+12:59:41.153 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vishv\.cache\selenium\chromedriver\win64\131.0.6778.85\chromedriver.exe
+12:59:44.699 [main] INFO  testClass.TC_001_Registration - ***verifyregistration - started***
+12:59:46.333 [main] INFO  testClass.TC_001_Registration - Entered register page
+11:51:14.417 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Vishv\eclipse\Selenium with java\OpencartMock\CrossBrowsertesting.xml
+
+11:51:17.085 [TestNG-tests-2] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using msedgedriver 131.0.2903.86 (resolved driver for Edge 131)
+11:51:17.294 [TestNG-tests-2] INFO  io.github.bonigarcia.wdm.WebDriverManager - Reading https://msedgedriver.azureedge.net/?restype=container&comp=list to seek msedgedriver
+11:51:18.954 [TestNG-tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 131.0.6778.87 (resolved driver for Chrome 131)
+11:51:19.001 [TestNG-tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Vishv\.cache\selenium\chromedriver\win64\131.0.6778.87\chromedriver.exe
+11:51:22.418 [TestNG-tests-2] INFO  io.github.bonigarcia.wdm.online.Downloader - Downloading https://msedgewebdriverstorage.blob.core.windows.net/edgewebdriver/131.0.2903.86/edgedriver_win64.zip
+11:51:22.537 [TestNG-tests-1] INFO  testClass.TC_001_Registration - ***verifyregistration - started***
+11:51:24.232 [TestNG-tests-1] INFO  testClass.TC_001_Registration - Entered register page
+11:51:28.294 [TestNG-tests-1] INFO  testClass.TC_001_Registration - Registered successfull
+11:51:28.294 [TestNG-tests-1] INFO  testClass.TC_001_Registration - ***verifyregistration - ended***
+11:51:39.465 [TestNG-tests-2] INFO  io.github.bonigarcia.wdm.online.Downloader - Extracting driver from compressed file edgedriver_win64.zip
+11:51:39.843 [TestNG-tests-2] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.edge.driver as C:\Users\Vishv\.cache\selenium\msedgedriver\win64\131.0.2903.86\msedgedriver.exe
+11:51:42.904 [TestNG-tests-2] INFO  testClass.TC_001_Registration - ***verifyregistration - started***
+11:51:44.608 [TestNG-tests-2] INFO  testClass.TC_001_Registration - Entered register page
+11:51:48.857 [TestNG-tests-2] INFO  testClass.TC_001_Registration - Registered successfull
+11:51:48.857 [TestNG-tests-2] INFO  testClass.TC_001_Registration - ***verifyregistration - ended***
